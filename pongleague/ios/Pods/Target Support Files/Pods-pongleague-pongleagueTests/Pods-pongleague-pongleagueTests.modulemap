@@ -1,0 +1,6 @@
+module Pods_pongleague_pongleagueTests {
+  umbrella header "Pods-pongleague-pongleagueTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
